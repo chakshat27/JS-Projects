@@ -1,0 +1,93 @@
+
+
+
+/* Set a default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: black;
+}
+
+/* Center the search bar */
+.search {
+    width: 100%;
+    max-width: 700px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
+
+/* Style the search input */
+.search-input {
+    width: 100%;
+    max-width: 500px;
+    box-sizing: border-box;
+    padding: 15px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(58, 58, 58);
+    border: none;
+}
+
+/* Style the search button */
+.btn {
+    background-color: red;
+    font-size: 18px;
+    color: white;
+    border: none;
+    padding: 14px 30px;
+    cursor: pointer;
+}
+
+/* Style the content */
+.content {
+    color: rgba(255, 255, 255, 0.955);
+}
+
+/* Style the content paragraphs */
+.content p {
+    margin: 0;
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+}
+
+/* Style the container */
+.container {
+    color: white;
+    width: 100%;
+    max-width: 800px;
+    height: 250px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Style the title */
+#title {
+    margin: 0;
+    color: white;
+    font-size: 30px;
+}
+
+/* Style the poster */
+#poster {
+     margin-right: 20px;
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    height: 450px;
+     object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    }
+
+
+/* Style the span */
+span {
+    font-weight: bold;
+    color: antiquewhite;
+    font-size: 20px;
+    text-decoration: none;
+}
+
