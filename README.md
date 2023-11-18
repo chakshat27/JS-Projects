@@ -4,7 +4,7 @@ Welcome to the "JS-Projects" repository! Here, you'll find a collection of engag
 
 ## Table of Contents
 
-1. [Introduction]#Introduction
+1. [Introduction]
 2. [Projects]
 3. [Usage]
 4. [Contributing]
